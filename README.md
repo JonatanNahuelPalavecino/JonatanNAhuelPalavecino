@@ -11,12 +11,15 @@ Mi nombre es Jonatan, tengo 30 años y soy desarrollador web Frontend 💻 Estud
 * REACT JS
 
 Estas herramientas me permitieron desarrollar páginas webs como [Di-Di Sculpidas](https://di-disculpidas.vercel.app/) 💅 presentada como proyecto final de Desarrollo Web, o mi primer proyecto real con [JBPremium](https://jbpremium.com.ar/)🍾.
+
 Estos proyectos y algunos mas, los vas a encontrar en este perfil.
 
 Estoy en la contínua practica de lo aprendido 🤓 creando aplicativos web para poder profundizar los conocimientos adquiridos, y resolver las problematicas que cada proyecto conlleva 🤯
+
 Actualmente me encuentro en la búsqueda de mi primer trabajo como developer 🤝
 
 Si queres ver mi portafolio, te dejo el link [acá](https://portafolio-jonatan-palavecino.vercel.app/)👈
+
 Y si queres ponerte en contacto conmigo, hablemos por [LinkedIn](https://www.linkedin.com/in/jonatanpalavecinodev/)🎉
 
 
