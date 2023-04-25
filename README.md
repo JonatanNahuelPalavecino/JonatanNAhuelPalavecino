@@ -1,6 +1,6 @@
 ### Hola 👋😀
 
-Mi nombre es Jonatan, tengo 30 años y soy desarrollador web Frontend 💻 Estudié la carrera en [Coderhouse](https://www.coderhouse.com/) donde aprendí a utilizar
+Mi nombre es Jonatan, tengo 30 años y soy desarrollador web Frontend 💻 donde aprendí a utilizar:
 
 * HTML
 * CSS
