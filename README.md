@@ -1,6 +1,6 @@
 ### Hola 👋😀
 
-Mi nombre es Jonatan, tengo 30 años y soy desarrollador web Frontend 💻 donde aprendí a utilizar:
+Mi nombre es Jonatan, tengo 30 años, soy desarrollador web Frontend 💻 y tengo conocimientos en:
 
 * HTML
 * CSS
