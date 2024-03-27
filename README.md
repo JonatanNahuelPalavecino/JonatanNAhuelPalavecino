@@ -1,16 +1,21 @@
 ### Hola 👋😀
 
-Mi nombre es Jonatan, tengo 30 años, soy desarrollador web Frontend 💻 y tengo conocimientos en:
+Mi nombre es Jonatan, tengo 31 años, soy desarrollador web Fullstack 💻 y tengo conocimientos en:
 
 * HTML
 * CSS
 * SCSS
-* Frameworks como BOOTSTRAP
+* Frameworks como BOOTSTRAP y TAILWIND
 * GIT / GITHUB
 * JAVASCRIPT
 * REACT JS
+* NODE JS
+* EXPRESS
+* SQL
+* MYSQL
+* PYTHON
 
-Estas herramientas me permitieron desarrollar páginas webs como [Di-Di Sculpidas](https://di-disculpidas.vercel.app/) 💅 presentada como proyecto final de Desarrollo Web, o mi primer proyecto real con [JBPremium](https://jbpremium.com.ar/)🍾.
+Estas herramientas me permitieron desarrollar páginas webs como [Di-Di Sculpidas](https://di-disculpidas.vercel.app/) 💅 presentada como proyecto final de Desarrollo Web, mi primer proyecto real con [JBPremium](https://jbpremium.com.ar/)🍾 y [AFComex](https://afcomex.com.ar/) 🧑‍💼.
 
 Estos proyectos y algunos mas, los vas a encontrar en este perfil.
 
